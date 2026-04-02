@@ -1,0 +1,12 @@
+# Core numerical / data stack (used by dashboard + network flow scripts)
+numpy
+pandas
+matplotlib
+scipy
+requests
+Pillow
+
+# Dashboard UI
+plotly
+dash
+
