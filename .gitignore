@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# SkillCorner/Proprietary Data
+match_data/
+*.jsonl
+*.json
+*.csv
+
+# Local outputs
+outputs/
+*.gif
+*.png
+
+# Mac system files
+.DS_Store
